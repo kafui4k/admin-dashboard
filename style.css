@@ -153,14 +153,14 @@ html {
     gap: 15px;
 }
 
-.main-cotent div {
+.card {
+    display: grid;
+}
+
+.main-cotent .card {
     background-color: white;
     border-radius: 10px;
     border-left: 5px solid orange;
-}
-
-.main-content .card {
-    padding: 16px;
 }
 
 .main-cotent .title {
@@ -169,6 +169,17 @@ html {
 
 .main-cotent .desc {
     font-size: small;
+}
+
+.footer-icons {
+    display: grid;
+    justify-self: end;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+}
+
+.footer-icons img {
+    width: "20px";
 }
 
 .article {
