@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to SVGRepo https://www.svgrepo.com -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<g>
+	<rect x="140" y="91" width="75.1" height="15.1"/>
+	<rect x="140" y="116.9" width="75.1" height="15.1"/>
+	<rect x="140" y="142.8" width="75.1" height="15.1"/>
+	<path d="M219.9,62.1H35.7c-12.9,0-23.4,10.5-23.4,23.4v84.9c0,12.9,10.5,23.4,23.4,23.4h184.1c12.9,0,23.4-10.5,23.4-23.4V85.1
+		C243.3,72.6,232.8,62.1,219.9,62.1z M220.2,185.4H35.7c-8.7,0-15.4-7-15.4-15.4V85.1c0-8.7,7-15.4,15.4-15.4h184.1
+		c8.7,0,15.4,7,15.4,15.4v84.9h0.3C235.6,178.8,228.6,185.4,220.2,185.4z"/>
+	<circle cx="81.2" cy="109.9" r="18.9"/>
+	<path d="M102.8,132.6H81.2H59.5c-12.2,0-20.3,9.1-21.3,21.3v3.9h86.7v-3.9C123.1,141.7,115,132.6,102.8,132.6z"/>
+</g>
+</svg>
